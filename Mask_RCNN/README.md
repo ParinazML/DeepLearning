@@ -1,7 +1,7 @@
 # Introduction
 This implementation is based on matterport Mask RCNN code which can be found here : https://github.com/matterport/Mask_RCNN 
 
-The goal was implementation of Mask RCNN to identify stones in the images.
+The goal was implementation of a model for identifying stones in images.
 The model has been trained on 54 images and validated on 9 images.
 
 # Mask R-CNN for Object Detection and Segmentation
