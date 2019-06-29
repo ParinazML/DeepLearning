@@ -1,0 +1,2 @@
+cd C:\Users\pmohsenpour\COMP5329\Mask_RCNN-master\Mask_RCNN\samples\stone
+python stone.py train --dataset=C:\Users\pmohsenpour\COMP5329\Mask_RCNN-master\Mask_RCNN\datasets --weights=coco
