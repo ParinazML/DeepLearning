@@ -19,7 +19,7 @@ The repository includes:
 
 # Prepare Training dataset
 
-To prepare image training dataset I have downloaded images of stones from internet and used below online annotation tool to annotate my target objects.
+To prepare a training dataset for my problem I have downloaded images of stones from internet and used below online annotation tool to annotate my target objects.
 
 http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html
 
