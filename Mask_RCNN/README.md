@@ -17,6 +17,11 @@ The repository includes:
 * Evaluation on MS COCO metrics (AP)
 * Example of training on your own dataset
 
+# Prepare Training dataset
+
+To prepare image training dataset I have downloaded images of stones from internet and used below online annotation tool to annotate my target objects.
+
+http://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html
 
 # Getting Started
 Demo file can be found here:
